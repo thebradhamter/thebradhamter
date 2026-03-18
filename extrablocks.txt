@@ -1,2 +1,12 @@
 talkie-ai.com
 api.talkie-ai.com
+connection.talkie-ai.com
+cdn.talkie-ai.com	
+www.talkie-ai.com
+bigdata.talkie-ai.com
+talkiex.com
+api.talkiex.com
+connection.talkiex.com
+cdn.talkiex.com	
+www.talkiex.com
+bigdata.talkiex.com
